@@ -13,10 +13,8 @@
 <script>
 
 export default {
-	name: 'Skill',
 	data () {
 		return {
-			msg: 'skill',
 			skillList:[{
 				id:1,
 				skillName:" 直销"
